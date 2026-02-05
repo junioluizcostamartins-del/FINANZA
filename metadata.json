@@ -1,0 +1,7 @@
+{
+  "name": "Finanza - Gestão Financeira Pessoal",
+  "description": "Um aplicativo de gestão financeira intuitivo para controlar receitas, despesas, orçamentos e metas mensais com insights inteligentes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
